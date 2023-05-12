@@ -1,0 +1,17 @@
+{
+	"meta": {
+		"version": "0.0.1a",
+		"description": "Admissions bot for iKnow School",
+		"url": "https://t.me/",
+		"author": "Nuriddin Islamov",
+		"date_of_release": "25/05/2023"
+	},
+	"app": {
+		"texts": {
+			"start": "😃 Hooray! You have successfully set up your bot!\n\nStart editing <code>main.py</code> file"
+		},
+		"buttons": {
+			"ok": "OK!"
+		}
+	}
+}
