@@ -8,7 +8,17 @@
 	},
 	"app": {
 		"texts": {
-			"start": "😃 Hooray! You have successfully set up your bot!\n\nStart editing <code>main.py</code> file"
+			"": {
+				"ru": "",
+				"uz": "",
+				"en": ""
+			},
+			"start": "😃 Hooray! You have successfully set up your bot!\n\nStart editing <code>main.py</code> file",
+			"name_request": {
+				"ru": "",
+				"uz": "",
+				"en": "Let's get friends. What's your name?"
+			}
 		},
 		"buttons": {
 			"ok": "OK!"
